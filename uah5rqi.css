@@ -1,0 +1,57 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * p22-underground-1:
+ *   - http://typekit.com/eulas/00000000000000000000de39
+ *   - http://typekit.com/eulas/00000000000000000000de3a
+ *   - http://typekit.com/eulas/00000000000000000000de3b
+ *   - http://typekit.com/eulas/00000000000000000000de3c
+ *   - http://typekit.com/eulas/00000000000000000000de3d
+ *   - http://typekit.com/eulas/00000000000000000000de3e
+ *
+ * © 2009-2021 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2020-05-26 07:44:49 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=uah5rqi&ht=tk&f=5622.5623.5624.5625.5626.5627&a=3197966&app=typekit&e=css");
+
+@font-face {
+font-family:"p22-underground-1";
+src:url("https://use.typekit.net/af/bc9478/00000000000000000000de39/27/l?subset_id=2&fvd=n1&v=3") format("woff2"),url("https://use.typekit.net/af/bc9478/00000000000000000000de39/27/d?subset_id=2&fvd=n1&v=3") format("woff"),url("https://use.typekit.net/af/bc9478/00000000000000000000de39/27/a?subset_id=2&fvd=n1&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:100;
+}
+
+@font-face {
+font-family:"p22-underground-1";
+src:url("https://use.typekit.net/af/7bf3d5/00000000000000000000de3a/27/l?subset_id=2&fvd=n3&v=3") format("woff2"),url("https://use.typekit.net/af/7bf3d5/00000000000000000000de3a/27/d?subset_id=2&fvd=n3&v=3") format("woff"),url("https://use.typekit.net/af/7bf3d5/00000000000000000000de3a/27/a?subset_id=2&fvd=n3&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;
+}
+
+@font-face {
+font-family:"p22-underground-1";
+src:url("https://use.typekit.net/af/ad8f50/00000000000000000000de3b/27/l?subset_id=2&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/ad8f50/00000000000000000000de3b/27/d?subset_id=2&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/ad8f50/00000000000000000000de3b/27/a?subset_id=2&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"p22-underground-1";
+src:url("https://use.typekit.net/af/4a044b/00000000000000000000de3c/27/l?subset_id=2&fvd=n5&v=3") format("woff2"),url("https://use.typekit.net/af/4a044b/00000000000000000000de3c/27/d?subset_id=2&fvd=n5&v=3") format("woff"),url("https://use.typekit.net/af/4a044b/00000000000000000000de3c/27/a?subset_id=2&fvd=n5&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;
+}
+
+@font-face {
+font-family:"p22-underground-1";
+src:url("https://use.typekit.net/af/54c493/00000000000000000000de3d/27/l?subset_id=2&fvd=n6&v=3") format("woff2"),url("https://use.typekit.net/af/54c493/00000000000000000000de3d/27/d?subset_id=2&fvd=n6&v=3") format("woff"),url("https://use.typekit.net/af/54c493/00000000000000000000de3d/27/a?subset_id=2&fvd=n6&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;
+}
+
+@font-face {
+font-family:"p22-underground-1";
+src:url("https://use.typekit.net/af/49d3df/00000000000000000000de3e/27/l?subset_id=2&fvd=n9&v=3") format("woff2"),url("https://use.typekit.net/af/49d3df/00000000000000000000de3e/27/d?subset_id=2&fvd=n9&v=3") format("woff"),url("https://use.typekit.net/af/49d3df/00000000000000000000de3e/27/a?subset_id=2&fvd=n9&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:900;
+}
+
+.tk-p22-underground { font-family: "p22-underground-1","p22-underground-2",sans-serif; }
